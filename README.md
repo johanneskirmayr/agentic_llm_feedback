@@ -21,7 +21,7 @@ Screen recordings showing what participants saw during the study under the diffe
 
 ### 2. Codebook Qualitative Analysis
 
-📊 [`chi26c-sub3229-cam-i74.xlsx`](chi26c-sub3229-cam-i74.xlsx) – Codebook used for the qualitative analysis.
+📊 [`codebook_qualitative_analysis.xlsx`](codebook_qualitative_analysis.xlsx) – Codebook used for the qualitative analysis.
 
 ## Citation
 
