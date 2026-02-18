@@ -1,6 +1,6 @@
 # "What Are You Doing?": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing
 
-[![DOI](https://img.shields.io/badge/DOI-TODO-blue)](TODO)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.15569-b31b1b.svg)](https://arxiv.org/abs/2602.15569)
 
 This repository contains supplementary material for the CHI 2026 paper:
 
@@ -26,5 +26,13 @@ Screen recordings showing what participants saw during the study under the diffe
 ## Citation
 
 ```bibtex
-@inproceedings{TODO}
+@misc{kirmayr2026whatdoingeffectsintermediate,
+      title={"What Are You Doing?": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing}, 
+      author={Johannes Kirmayr and Raphael Wennmacher and Khanh Huynh and Lukas Stappen and Elisabeth André and Florian Alt},
+      year={2026},
+      eprint={2602.15569},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2602.15569}, 
+}
 ```
